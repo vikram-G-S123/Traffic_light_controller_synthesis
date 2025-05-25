@@ -124,9 +124,6 @@ endmodule
 
 The Liberty files are present in the library path,
 
-![Screenshot 2025-05-25 205322](https://github.com/user-attachments/assets/466033d8-3fe9-4c49-a00e-b1025b7d17a6)
-
-
 • The Available technology nodes are 180nm ,90nm and 45nm.
 
 • In the terminal, initialise the tools with the following commands if a new terminal is being used.
